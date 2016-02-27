@@ -7,6 +7,10 @@ public class Hello_World_Printer {
     public static void main(String[] args) {
        System.out.println("Hello World");
        //Also blablablablablabalb
+       
+       //this is something else
+       System.out.println("OH OH OH OH");
+       
 
     }
 
