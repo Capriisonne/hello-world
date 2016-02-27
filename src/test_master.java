@@ -7,8 +7,6 @@ public class test_master {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        
-        //this gonna be the third commit 
 
     }
 
